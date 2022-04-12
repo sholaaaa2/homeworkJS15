@@ -1,0 +1,13 @@
+li{
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 35px 65px;
+  letter-spacing: 1px
+}
+a{
+  text-decoration: none;
+  color: #16A085
+}
+ul{margin: 0}

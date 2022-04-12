@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  width: 1280px;
+  margin: auto;
+}
+nav{
+  background-color: white;
+}
+section{
+  background-color: #F5F6F7;
+}
+footer{
+  background-color: white;
+  text-align: right;
+  height: 108px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
